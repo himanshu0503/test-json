@@ -223,6 +223,46 @@
         "average_price": 0
       }
     ]
-  }
+  },
+  "positions":[  
+      {  
+        "sell_amount_mtm":"4.4",
+        "total_buy_quantity":0,
+        "cf_average_sell_price_mtm":0.0,
+        "close_price_mtm":4.4,
+        "average_sell_price":"4.4",
+        "buy_amount":"0.0",
+        "cf_sell_quantity":0,
+        "exchange":"NSE",
+        "bep":"4.40",
+        "average_sell_price_mtm":"4.4",
+        "instrument_token":"12018",
+        "enabled":true,
+        "buy_quantity":"0",
+        "cf_average_buy_price_mtm":0.0,
+        "unrealised_pnl":"-0.05",
+        "net_quantity":-1,
+        "average_buy_price":"0.0",
+        "trading_symbol":"SUZLON-EQ",
+        "realised_pnl":"0.00",
+        "multiplier":1,
+        "product":"MIS",
+        "client_id":"AB018832",
+        "buy_amount_mtm":"0.0",
+        "close_price":4.4,
+        "net_amount":4.4,
+        "strike_price":"0",
+        "m2m":"-0.05",
+        "sell_quantity":"1",
+        "sell_amount":"4.4",
+        "ltp":4.45,
+        "average_buy_price_mtm":"0.0",
+        "cf_buy_quantity":0,
+        "net_amount_mtm":4.4,
+        "total_sell_quantity":1,
+        "fill_id":null,
+        "oms_order_id":null
+      }
+    ]
   
 }
